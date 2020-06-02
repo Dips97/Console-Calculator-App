@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\LENOVO\source\repos\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\LENOVO\source\repos\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\LENOVO\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\LENOVO\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
